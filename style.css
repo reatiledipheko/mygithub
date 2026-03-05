@@ -29,10 +29,10 @@ main {
     margin: 0px auto;
 }
 main img {
-    max-width: 100%;
+    max-width: 500%;
     height: auto;
     display: block;
-    margin: 20px auto;
+    margin: 10px auto;
 }
 table, td {
     border: 1px solid black;
@@ -65,4 +65,5 @@ main a[href="https://github.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
 
