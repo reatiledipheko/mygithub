@@ -34,6 +34,10 @@ main img {
     display: block;
     margin: 20px auto;
 }
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
 footer {
     background-color: #333;
     color: #fff;
@@ -61,3 +65,4 @@ main a[href="https://github.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
