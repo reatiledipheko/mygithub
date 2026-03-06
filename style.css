@@ -5,9 +5,6 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-image: url"https://jasminvilhelmina.com/wp-content/uploads/2023/03/2-40-900x900.jpg";
-    background-position: center;
-    background-repeat: no-repeat;
 }
 header {
     background-color: #4CAF50;
@@ -17,6 +14,7 @@ header {
 }
 header h1 {
     margin: 0;
+    font-family: Times New Roman, serif
 }
 nav a {
     color: #fff;
@@ -36,6 +34,7 @@ main img {
     height: auto;
     display: block;
     margin: 10px auto;
+    text-align:  right;
 }
 table, td {
     border: 1px solid black;
@@ -68,6 +67,7 @@ main a[href="https://github.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
 
 
 
