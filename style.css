@@ -60,11 +60,18 @@ h2 {
     text-align: center;
     margin-top: 40px:
 }
+products {
+    display: flex;
+    justify-content: center;
+    gap: 40px ;
+    padding: 60px;
+    text-align: center;
+}
 product-card {
     backgroup: white ;
     padding: 30px ;
-    width:250px ;
-    border-radius:10px ;
+    width: 250px ;
+    border-radius: 10px ;
     box-shadow: 0 4px 10 px rgba( 0,0,0,0,1)
 }
 product-card h2 {
@@ -112,6 +119,7 @@ main a[href="https://github.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
 
 
 
