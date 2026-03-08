@@ -73,6 +73,18 @@ product-card h2 {
 product-card p {
     color:#555
 }
+btn  {
+    display: inline-black;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #2e7d32;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+btn:hover {
+    backgroup:#1b5e20;
+}
 footer {
     background-color: #333;
     color: #fff;
@@ -100,6 +112,7 @@ main a[href="https://github.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
 
 
 
