@@ -1,7 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #f5f7f6;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -20,6 +20,7 @@ nav a {
     color: #fff;
     text-decoration: none;
     margin: 0 10px;
+    font-size: 16px;
 }
 nav a:hover {
     text-decoration: underline;
@@ -59,6 +60,19 @@ h2 {
     text-align: center;
     margin-top: 40px:
 }
+product-card {
+    backgroup: white ;
+    padding: 30px ;
+    width:250px ;
+    border-radius:10px ;
+    box-shadow: 0 4px 10 px rgba( 0,0,0,0,1)
+}
+product-card h2 {
+    color: #2e7d32;
+}
+product-card p {
+    color:#555
+}
 footer {
     background-color: #333;
     color: #fff;
@@ -86,6 +100,7 @@ main a[href="https://github.com"] {
     color: #ff5722;
     font-weight: bold;
 }
+
 
 
 
